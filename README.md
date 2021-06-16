@@ -10,7 +10,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles | :heavy_check_mark: Completed | | :x: Not Completed |
 
-### Easy (1/50 completed)
+### Easy (2/50 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -45,7 +45,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 29 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
 | 30 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
 | 31 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :x: Not Completed | Easy | |
-| 32 | [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :x: Not Completed | Easy | |
+| 32 | [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.py) |
 | 33 | [Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | :x: Not Completed | Easy |  |
 | 34 | [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :x: Not Completed | Easy |  |
 | 35 | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :x: Not Completed | Easy | |
@@ -54,7 +54,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 38 | [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :x: Not Completed | Easy |  |
 | 39 | [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
 | 40 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
-| 41 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/sol.py) |
+| 41 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.py) |
 | 42 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
 | 43 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :x: Not Completed | Easy | |
 | 44 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :x: Not Completed | Easy | |
