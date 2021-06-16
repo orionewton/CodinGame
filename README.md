@@ -175,7 +175,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 102 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/war.py)|
 | 103 | [Detective Pikaptcha Ep3](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)  | :x: Not Completed | Medium |  |
 
-### Hard (0/106 completed)
+### Hard (1/139 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -253,7 +253,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 72 | [Skynet Revolution - Episode 2](https://www.codingame.com/training/hard/skynet-revolution-episode-2) | :x: Not Completed | Hard |  |
 | 73 | [Spreadsheet Labels](https://www.codingame.com/training/hard/spreadsheet-labels) | :x: Not Completed | Hard |  |
 | 74 | [Sum of odd](https://www.codingame.com/training/hard/sum-of-odd) | :x: Not Completed | Hard |  |
-| 75 | [Super Computer](https://www.codingame.com/training/hard/super-computer) | :x: Not Completed | Hard |  |
+| 75 | [Super Computer](https://www.codingame.com/training/hard/super-computer) | :heavy_check_mark: Completed | Hard | [Python](https://github.com/orionewton/CodinGame/blob/main/Hard/comput.py) |
 | 76 | [Surface](https://www.codingame.com/training/hard/surface) | :x: Not Completed | Hard |  |
 | 77 | [Symbolic system of equations](https://www.codingame.com/training/hard/symbolic-system-of-equations) | :x: Not Completed | Hard |  |
 | 78 | [TAN Network](https://www.codingame.com/training/hard/tan-network) | :x: Not Completed | Hard |  |
