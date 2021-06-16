@@ -44,8 +44,8 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 28 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :x: Not Completed | Easy | |
 | 29 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
 | 30 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
-| 31 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :x: Not Completed | Easy | |
-| 32 | [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.py) |
+| 31 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.py) |
+| 32 | [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :x: Not Completed | Easy |  |
 | 33 | [Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | :x: Not Completed | Easy |  |
 | 34 | [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :x: Not Completed | Easy |  |
 | 35 | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :x: Not Completed | Easy | |
