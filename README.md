@@ -33,7 +33,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 17 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) | :x: Not Completed | Easy | |
 | 18 | [Gravity Tumbler](https://www.codingame.com/training/easy/gravity-tumbler) | :x: Not Completed | Easy | |
 | 19 | [Guessing n Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | :x: Not Completed | Easy | |
-| 20 | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | :x: Not Completed | Easy | |
+| 20 | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.py)|
 | 21 | [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :x: Not Completed | Easy | |
 | 22 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | :x: Not Completed | Easy | |
 | 23 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :x: Not Completed | Easy | |
