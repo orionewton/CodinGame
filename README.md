@@ -10,7 +10,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles | :heavy_check_mark: Completed | | :x: Not Completed |
 
-### Easy (2/50 completed)
+### Easy (3/50 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -23,7 +23,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 7 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :x: Not Completed | Easy | |
 | 8 | [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | :x: Not Completed | Easy | |
 | 9 | [Carmichael numbers](https://www.codingame.com/training/easy/carmichael-numbers) | :x: Not Completed | Easy | |
-| 10 | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :x: Not Completed | Easy | |
+| 10 | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/chuck.py)|
 | 11 | [Darts](https://www.codingame.com/training/easy/darts) | :x: Not Completed | Easy | |
 | 12 | [Dead men's shot](https://www.codingame.com/training/easy/dead-mens-shot) | :x: Not Completed | Easy | |
 | 13 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | :x: Not Completed | Easy | |
