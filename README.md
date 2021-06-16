@@ -39,7 +39,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 23 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :x: Not Completed | Easy | |
 | 24 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
 | 25 | [Lumen](https://www.codingame.com/training/easy/lumen) | :x: Not Completed | Easy | |
-| 26 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :x: Not Completed | Easy | |
+| 26 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.py) |
 | 27 | [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | :x: Not Completed | Easy | |
 | 28 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :x: Not Completed | Easy | |
 | 29 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
