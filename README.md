@@ -10,7 +10,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles | :heavy_check_mark: Completed | | :x: Not Completed |
 
-### Easy (12/116 completed)
+### Easy (13/116 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -55,17 +55,18 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 39 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | :x: Not Completed | Easy |  |
 | 40 | [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :x: Not Completed | Easy |  |
 | 41 | [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
-| 42 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
-| 43 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.py) |
-| 44 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
-| 45 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/decsent.py)|
-| 46 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :x: Not Completed | Easy | |
-| 47 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :x: Not Completed | Easy | |
-| 48 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
-| 49 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |  |
-| 50 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
-| 51 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :x: Not Completed | Easy | |
-| 52 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy | |
+| 42 | [Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/sudoku.py)
+| 43 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
+| 44 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.py) |
+| 45 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
+| 46 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/decsent.py)|
+| 47 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :x: Not Completed | Easy | |
+| 48 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :x: Not Completed | Easy | |
+| 49 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
+| 50 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |  |
+| 51 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
+| 52 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :x: Not Completed | Easy | |
+| 53 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy | |
 
 ### Medium (8/209 completed)
 
