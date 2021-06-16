@@ -10,7 +10,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles | :heavy_check_mark: Completed | | :x: Not Completed |
 
-### Easy (9/51 completed)
+### Easy (10/51 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -41,7 +41,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 25 | [Lumen](https://www.codingame.com/training/easy/lumen) | :x: Not Completed | Easy | |
 | 26 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.py) |
 | 27 | [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | :x: Not Completed | Easy | |
-| 28 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :x: Not Completed | Easy | |
+| 28 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/mime.py) |
 | 29 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
 | 30 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
 | 31 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.py) |
