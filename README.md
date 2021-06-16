@@ -67,7 +67,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 51 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :x: Not Completed | Easy | |
 | 52 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy | |
 
-### Medium (0/103 completed)
+### Medium (8/209 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -77,7 +77,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 4 | [2x2x2 Rubik's cube movements](https://www.codingame.com/training/medium/222-rubiks-cube-movements) | :x: Not Completed | Medium | |
 | 5 | [Advanced Tree](https://www.codingame.com/training/medium/advanced-tree) | :x: Not Completed | Medium | |
 | 6 | [Ancestors & Descendants](https://www.codingame.com/training/medium/ancestors-&-descendants) | :x: Not Completed | Medium | |
-| 7 | [ANEO Sponsored Puzzle](https://www.codingame.com/training/medium/aneo) | :x: Not Completed | Medium | |
+| 7 | [ANEO Sponsored Puzzle](https://www.codingame.com/training/medium/aneo) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/aneo.py) |
 | 8 | [Army ants](https://www.codingame.com/training/medium/army-ants) | :x: Not Completed | Medium | |
 | 9 | [ASCII ART: Glass Stacking](https://www.codingame.com/training/medium/ascii-art-:-glass-stacking) | :x: Not Completed | Medium | |
 | 10 | [Ascii Graph](https://www.codingame.com/training/medium/ascii-graph) | :x: Not Completed | Medium | |
@@ -105,7 +105,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 32 | [Digit sum successor](https://www.codingame.com/training/medium/digit-sum-successor) | :x: Not Completed | Medium | |
 | 33 | [Divine!](https://www.codingame.com/training/medium/divine!) | :x: Not Completed | Medium | |
 | 34 | [Dominoes Path](https://www.codingame.com/training/medium/dominoes-path) | :x: Not Completed | Medium | |
-| 35 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1) | :x: Not Completed | Medium | |
+| 35 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/panic.py) |
 | 36 | [Dwars standing on the shoulders of giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) | :x: Not Completed | Medium | |
 | 37 | [Elementary cellular automaton](https://www.codingame.com/training/medium/elementary-cellular-automaton) | :x: Not Completed | Medium | |
 | 38 | [Enigma - 3 rotors without plugboard](https://www.codingame.com/training/medium/enigma---3-rotors-without-plugboard) | :x: Not Completed | Medium | |
@@ -133,7 +133,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 60 | [Minimax excercise](https://www.codingame.com/training/medium/minimax-exercise) | :x: Not Completed | Medium | |
 | 61 | [Monthly System](https://www.codingame.com/training/medium/monthly-system) | :x: Not Completed | Medium | |
 | 62 | [Near-Palindromes](https://www.codingame.com/training/medium/near-palindromes) | :x: Not Completed | Medium | |
-| 63 | [Network Cabling](https://www.codingame.com/training/medium/network-cabling) | :x: Not Completed | Medium |  |
+| 63 | [Network Cabling](https://www.codingame.com/training/medium/network-cabling) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/network.py) |
 | 64 | [Next car license plate ?](https://www.codingame.com/training/medium/next-car-license-plate) | :x: Not Completed | Medium |  |
 | 65 | [Number of letters in a number - Binary](https://www.codingame.com/training/medium/number-of-letters-in-a-number---binary) | :x: Not Completed | Medium |  |
 | 66 | [Number of paths between 2 points](https://www.codingame.com/training/medium/number-of-paths-between-2-points) | :x: Not Completed | Medium |  |
@@ -151,9 +151,9 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 78 | [Short accounts make long friends](https://www.codingame.com/training/medium/short-accounts-make-long-friends) | :x: Not Completed | Medium |  |
 | 79 | [Simple fraction to mixed number](https://www.codingame.com/training/medium/simple-fraction-to-mixed-number) | :x: Not Completed | Medium |  |
 | 80 | [Simplified Monopoly Turns Prediction](https://www.codingame.com/training/medium/simplified-monopoly-turns-prediction) | :x: Not Completed | Medium |  |
-| 81 | [Skynet Revolution - Episode 1](https://www.codingame.com/training/medium/skynet-revolution-episode-1) | :x: Not Completed | Medium | |
+| 81 | [Skynet Revolution - Episode 1](https://www.codingame.com/training/medium/skynet-revolution-episode-1) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/skynet.py) |
 | 82 | [Snake encoding](https://www.codingame.com/training/medium/snake-encoding) | :x: Not Completed | Medium | |
-| 83 | [Stock Exchange Losses](https://www.codingame.com/training/medium/stock-exchange-losses) | :x: Not Completed | Medium | |
+| 83 | [Stock Exchange Losses](https://www.codingame.com/training/medium/stock-exchange-losses) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/stock.py) |
 | 84 | [Straddling Checkerboard Cryptography](https://www.codingame.com/training/medium/straddling-checkerboard-cryptography) | :x: Not Completed | Medium |  |
 | 85 | [Sum of divisors](https://www.codingame.com/training/medium/sum-of-divisors) | :x: Not Completed | Medium |  |
 | 86 | [Teads Sponsored Contest](https://www.codingame.com/training/medium/teads-sponsored-contest) | :x: Not Completed | Medium | |
@@ -164,15 +164,15 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 91 | [The Gift](https://www.codingame.com/training/medium/the-gift) | :x: Not Completed | Medium | |
 | 92 | [The Grand Festival - I](https://www.codingame.com/training/medium/the-grand-festival---i) | :x: Not Completed | Medium |  |
 | 93 | [The Grand Festival - II](https://www.codingame.com/training/medium/the-grand-festival---ii) | :x: Not Completed | Medium |  |
-| 94 | [The Last Crusade - Episode 1](https://www.codingame.com/training/medium/the-last-crusade-episode-1) | :x: Not Completed | Medium | |
+| 94 | [The Last Crusade - Episode 1](https://www.codingame.com/training/medium/the-last-crusade-episode-1) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/crusade.py) |
 | 95 | [The Optimal Urinal Problem](https://www.codingame.com/training/medium/the-optimal-urinal-problem) | :x: Not Completed | Medium |  |
 | 96 | [The Ultimate Test](https://www.codingame.com/training/medium/the-ultimate-test) | :x: Not Completed | Medium |  |
 | 97 | [The Urinal Problem](https://www.codingame.com/training/medium/the-urinal-problem) | :x: Not Completed | Medium |  |
-| 98 | [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1) | :x: Not Completed | Medium | |
+| 98 | [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/spoon.py) |
 | 99 | [These Romans are crazy!](https://www.codingame.com/training/medium/these-romans-are-crazy!) | :x: Not Completed | Medium |  |
 | 100 | [Trits (Balanced Ternary Computing)](https://www.codingame.com/training/medium/trits-balanced-ternary-computing) | :x: Not Completed | Medium |  |
 | 101 | [Vote counting](https://www.codingame.com/training/medium/vote-counting) | :x: Not Completed | Medium |       |
-| 102 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :x: Not Completed | Medium | |
+| 102 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/war.py)|
 | 103 | [Detective Pikaptcha Ep3](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)  | :x: Not Completed | Medium |  |
 
 ### Hard (0/106 completed)
