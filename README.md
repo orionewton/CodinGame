@@ -10,13 +10,13 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles | :heavy_check_mark: Completed | | :x: Not Completed |
 
-### Easy (8/51 completed)
+### Easy (9/51 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
 | 1 | [1x1x1 Rubik's cube movements](https://www.codingame.com/training/easy/111-rubiks-cube-movements) | :x: Not Completed | Easy | |
 | 2 | [Add'em Up](https://www.codingame.com/training/easy/addem-up) | :x: Not Completed | Easy | |
-| 3 | [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | :x: Not Completed | Easy | |
+| 3 | [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/ascii.py) |
 | 4 | [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :x: Not Completed | Easy | |
 | 5 | [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :x: Not Completed | Easy | |
 | 6 | [Brackets, extreme edition.](https://www.codingame.com/training/easy/brackets-extreme-edition) | :x: Not Completed | Easy | |
