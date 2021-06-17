@@ -10,7 +10,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles | :heavy_check_mark: Completed | | :x: Not Completed |
 
-### Easy (14/116 completed)
+### Easy (15/116 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
