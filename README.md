@@ -176,7 +176,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 102 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/war.py)|
 | 103 | [Detective Pikaptcha Ep3](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)  | :x: Not Completed | Medium |  |
 
-### Hard (1/139 completed)
+### Hard (2/139 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -269,7 +269,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 87 | [The Holy Grail](https://www.codingame.com/training/hard/the-holy-grail) | :x: Not Completed | Hard |  |
 | 88 | [The hungry duck - part 1](https://www.codingame.com/training/hard/the-hungry-duck---part-1) | :x: Not Completed | Hard |  |
 | 89 | [The hungry duck - part 2](https://www.codingame.com/training/hard/the-hungry-duck---part-2) | :x: Not Completed | Hard |  |
-| 90 | [The Labyrinth](https://www.codingame.com/training/hard/the-labyrinth) | :x: Not Completed | Hard |  |
+| 90 | [The Labyrinth](https://www.codingame.com/training/hard/the-labyrinth) | :heavy_check_mark: Completed | Hard | [Python](https://github.com/orionewton/CodinGame/blob/main/Hard/labyrinth.py) |
 | 91 | [The Last Crusade - Episode 2](https://www.codingame.com/training/hard/the-last-crusade-episode-2) | :x: Not Completed | Hard |  |
 | 92 | [The max surface box](https://www.codingame.com/training/hard/the-max-surface-box) | :x: Not Completed | Hard |  |
 | 93 | [The Total is Right - Weird edition](https://www.codingame.com/training/hard/the-total-is-right---weird-edition) | :x: Not Completed | Hard |  |
