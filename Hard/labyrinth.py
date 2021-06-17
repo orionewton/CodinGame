@@ -37,7 +37,8 @@ class Joueur:
         self.mouv = ["UP", "RIGHT", "DOWN", "LEFT"]
 
     def __repr__(self):
-        return ("On map " + str(self.xmax) + "x" + str(self.ymax) + " on pos: " + str(self.pos))
+        return ("On map " + str(self.xmax) + "x" + str(self.ymax)
+                + " on pos: " + str(self.pos))
 
     def direct(self, dir):
         if dir == 'UP':
@@ -87,7 +88,8 @@ class Joueur:
             voi = queue.pop(0).voinsins()
             for i in range(len(voi)):
                 n = voi[i]
-                if self.inmap(n) and self.obstacle(n, nope) is False and prec[n.y][n.x] == -1:
+                if (self.inmap(n) and self.obstacle(n, nope) is False
+                        and prec[n.y][n.x] == -1):
                     prec[n.y][n.x] = (i+2) % 4
                     queue.append(n)
 
@@ -104,7 +106,8 @@ class Joueur:
                 iter = iter.voinsins()[prec[iter.y][iter.x]]
             log(chemin)
 
-            while ((vu and self.case(destination) == cible) or (vu is False and len(chemin) > 0)):
+            while ((vu and self.case(destination) == cible)
+                    or (vu is False and len(chemin) > 0)):
                 print(self.mouv[chemin.pop(-1)])
                 self.update()
             return True
@@ -112,7 +115,8 @@ class Joueur:
 
 # ymax: number of rows.
 # xmax: number of columns.
-# a: number of rounds between the time the alarm countdown is activated and the time the alarm goes off.
+# a: number of rounds between the time the alarm countdown is activated
+# and the time the alarm goes off.
 ymax, xmax, a = [int(i) for i in input().split()]
 kirk = Joueur(xmax, ymax, 'UP')
 # game loop
