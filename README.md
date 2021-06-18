@@ -47,7 +47,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 31 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/mime.py) |
 | 32 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
 | 33 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
-| 34 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.cpp) |
+| 34 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.java) |
 | 35 | [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :x: Not Completed | Easy |  |
 | 36 | [Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | :x: Not Completed | Easy |  |
 | 37 | [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :x: Not Completed | Easy |  |
