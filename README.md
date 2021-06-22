@@ -7,6 +7,9 @@
 ## Introduction
 
 In this reposority you will find my working solutions for puzzles and bots for contests on the platform https://www.codingame.com/.
+| [Coders Striker Back](https://www.codingame.com/multiplayer/bot-programming/coders-strike-back) | Silver | [Python](https://github.com/orionewton/CodinGame/blob/main/Bots/coders.py) |
+| [Legends of COde & Magic](https://www.codingame.com/multiplayer/bot-programming/legends-of-code-magic) | Bronze | [Python](https://github.com/orionewton/CodinGame/blob/main/Bots/legends.py) |
+| [Ghost in the Cell](https://www.codingame.com/multiplayer/bot-programming/ghost-in-the-cell) | Bronze | [Python](https://github.com/orionewton/CodinGame/blob/main/Bots/ghost.py) |
 
 ## Puzzles | :heavy_check_mark: Completed | | :x: Not Completed |
 
