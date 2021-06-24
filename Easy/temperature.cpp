@@ -24,7 +24,7 @@ int main(){
                 t = abs(t);
                 minus = true;
             }
-            if(t == abs(int(result))){
+            if(t == abs(result)){
                 if(result < 0 && minus){
                     result = t * -1;
                 }
