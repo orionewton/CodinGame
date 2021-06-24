@@ -27,7 +27,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 3 | [Add'em Up](https://www.codingame.com/training/easy/addem-up) | :x: Not Completed | Easy | |
 | 4 | [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/ascii.py) |
 | 5 | [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :x: Not Completed | Easy | |
-| 6 | [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :x: Not Completed | Easy | |
+| 6 | [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/bank.py) |
 | 7 | [Brackets, extreme edition.](https://www.codingame.com/training/easy/brackets-extreme-edition) | :x: Not Completed | Easy | |
 | 8 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :x: Not Completed | Easy | |
 | 9 | [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | :x: Not Completed | Easy | |
