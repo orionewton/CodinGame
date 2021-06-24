@@ -20,7 +20,7 @@ int main()
     int N;
     scanf("%d", &N);
     int tab[N];
-    int mini = N;
+    int mini = N*N;
     for (int i = 0; i < N; i++) {
         int pi;
         scanf("%d", &pi);
