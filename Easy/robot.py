@@ -6,12 +6,15 @@ import math
 
 l = int(input())
 n = int(input())
-tmp = []
+mini = 1000
+maxi = 2
 for i in input().split():
-    tmp.append(int(i))
+    a = (int(i))
+    if a < mini:
+        mini = a
+    elif a > maxi:
+        maxi = a
 
-mini = min(tmp)
-maxi = max(tmp)
 tot = max(maxi, l-mini)
 # Write an answer using print
 
