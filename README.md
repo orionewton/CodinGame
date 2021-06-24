@@ -23,59 +23,60 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
 | 1 | [1x1x1 Rubik's cube movements](https://www.codingame.com/training/easy/111-rubiks-cube-movements) | :x: Not Completed | Easy | |
-| 2 | [Add'em Up](https://www.codingame.com/training/easy/addem-up) | :x: Not Completed | Easy | |
-| 3 | [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/ascii.py) |
-| 4 | [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :x: Not Completed | Easy | |
-| 5 | [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :x: Not Completed | Easy | |
-| 6 | [Brackets, extreme edition.](https://www.codingame.com/training/easy/brackets-extreme-edition) | :x: Not Completed | Easy | |
-| 7 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :x: Not Completed | Easy | |
-| 8 | [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | :x: Not Completed | Easy | |
-| 9 | [Carmichael numbers](https://www.codingame.com/training/easy/carmichael-numbers) | :x: Not Completed | Easy | |
-| 10 | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/chuck.py)|
-| 11 | [Custom Game of Life](https://www.codingame.com/ide/puzzle/custom-game-of-life) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/life.py) |
-| 12 | [Darts](https://www.codingame.com/training/easy/darts) | :x: Not Completed | Easy | |
-| 13 | [Dead men's shot](https://www.codingame.com/training/easy/dead-mens-shot) | :x: Not Completed | Easy | |
-| 14 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/defib.py)|
-| 15 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/pika.py) |
-| 16 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy | |
-| 17 | [Disordered First Contact](https://www.codingame.com/training/easy/disordered-first-contact) | :x: Not Completed | Easy | |
-| 18 | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | :x: Not Completed | Easy | |
-| 19 | [Expand the polynomial](https://www.codingame.com/training/easy/expand-the-polynomial) | :x: Not Completed | Easy | |
-| 20 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) | :x: Not Completed | Easy | |
-| 21 | [Gravity Tumbler](https://www.codingame.com/training/easy/gravity-tumbler) | :x: Not Completed | Easy | |
-| 22 | [Guessing n Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | :x: Not Completed | Easy | |
-| 23 | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.py), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.java), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.cpp), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.c) |
-| 24 | [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :x: Not Completed | Easy | |
-| 25 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | :x: Not Completed | Easy | |
-| 26 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :x: Not Completed | Easy | |
-| 27 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
-| 28 | [Lumen](https://www.codingame.com/training/easy/lumen) | :x: Not Completed | Easy | |
-| 29 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.cpp), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.c), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.java) |
-| 30 | [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | :x: Not Completed | Easy | |
-| 31 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/mime.py) |
-| 32 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
-| 33 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
-| 34 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.c) |
-| 35 | [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :x: Not Completed | Easy |  |
-| 36 | [Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | :x: Not Completed | Easy |  |
-| 37 | [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :x: Not Completed | Easy |  |
-| 38 | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.c) |
-| 39 | [Rectangle Partition](https://www.codingame.com/training/easy/rectangle-partition) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/rectangle.py)
-| 40 | [Rectangular block spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) | :x: Not Completed | Easy |  |
-| 41 | [Robot Show](https://www.codingame.com/training/easy/robot-show) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.c) |
-| 42 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | :x: Not Completed | Easy |  |
-| 43 | [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :x: Not Completed | Easy |  |
-| 44 | [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
-| 45 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
-| 46 | [Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/sudoku.py)
-| 47 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.c) |
-| 48 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
-| 49 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/decsent.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.c) |
-| 50 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :x: Not Completed | Easy | |
-| 51 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :x: Not Completed | Easy | |
-| 52 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
-| 53 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |  |
-| 54 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
+| 2 | [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/1D.py) |
+| 3 | [Add'em Up](https://www.codingame.com/training/easy/addem-up) | :x: Not Completed | Easy | |
+| 4 | [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/ascii.py) |
+| 5 | [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :x: Not Completed | Easy | |
+| 6 | [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :x: Not Completed | Easy | |
+| 7 | [Brackets, extreme edition.](https://www.codingame.com/training/easy/brackets-extreme-edition) | :x: Not Completed | Easy | |
+| 8 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :x: Not Completed | Easy | |
+| 9 | [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | :x: Not Completed | Easy | |
+| 10 | [Carmichael numbers](https://www.codingame.com/training/easy/carmichael-numbers) | :x: Not Completed | Easy | |
+| 11 | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/chuck.py)|
+| 12 | [Custom Game of Life](https://www.codingame.com/ide/puzzle/custom-game-of-life) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/life.py) |
+| 13 | [Darts](https://www.codingame.com/training/easy/darts) | :x: Not Completed | Easy | |
+| 14 | [Dead men's shot](https://www.codingame.com/training/easy/dead-mens-shot) | :x: Not Completed | Easy | |
+| 15 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/defib.py)|
+| 16 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/pika.py) |
+| 17 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy | |
+| 18 | [Disordered First Contact](https://www.codingame.com/training/easy/disordered-first-contact) | :x: Not Completed | Easy | |
+| 19 | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | :x: Not Completed | Easy | |
+| 20 | [Expand the polynomial](https://www.codingame.com/training/easy/expand-the-polynomial) | :x: Not Completed | Easy | |
+| 21 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) | :x: Not Completed | Easy | |
+| 22 | [Gravity Tumbler](https://www.codingame.com/training/easy/gravity-tumbler) | :x: Not Completed | Easy | |
+| 23 | [Guessing n Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | :x: Not Completed | Easy | |
+| 24 | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.py), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.java), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.cpp), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.c) |
+| 25 | [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :x: Not Completed | Easy | |
+| 26 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | :x: Not Completed | Easy | |
+| 27 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :x: Not Completed | Easy | |
+| 28 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
+| 29 | [Lumen](https://www.codingame.com/training/easy/lumen) | :x: Not Completed | Easy | |
+| 30 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.cpp), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.c), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.java) |
+| 31 | [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | :x: Not Completed | Easy | |
+| 32 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/mime.py) |
+| 33 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
+| 34 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
+| 35 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.c) |
+| 36 | [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :x: Not Completed | Easy |  |
+| 37 | [Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | :x: Not Completed | Easy |  |
+| 38 | [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :x: Not Completed | Easy |  |
+| 39 | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.c) |
+| 40 | [Rectangle Partition](https://www.codingame.com/training/easy/rectangle-partition) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/rectangle.py)
+| 41 | [Rectangular block spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) | :x: Not Completed | Easy |  |
+| 42 | [Robot Show](https://www.codingame.com/training/easy/robot-show) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.c) |
+| 43 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | :x: Not Completed | Easy |  |
+| 44 | [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :x: Not Completed | Easy |  |
+| 45 | [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
+| 46 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
+| 47 | [Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/sudoku.py)
+| 48 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.c) |
+| 49 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
+| 50 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/decsent.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.c) |
+| 51 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :x: Not Completed | Easy | |
+| 52 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :x: Not Completed | Easy | |
+| 53 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
+| 54 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |  |
+| 55 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
 
 ### Medium (8/209 completed)
