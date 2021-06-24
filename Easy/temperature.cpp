@@ -25,7 +25,7 @@ int main(){
                 minus = true;
             }
             if(t == abs(int(result))){
-                if(int(result) < 0 && minus){
+                if(result < 0 && minus){
                     result = t * -1;
                 }
                 else{
@@ -33,7 +33,7 @@ int main(){
                 }
             }
             else{
-                if(t < abs(int(result))){
+                if(t < abs(result)){
                     if(minus){
                         result = t * -1;
                     }
