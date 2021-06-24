@@ -50,7 +50,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 26 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :x: Not Completed | Easy | |
 | 27 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
 | 28 | [Lumen](https://www.codingame.com/training/easy/lumen) | :x: Not Completed | Easy | |
-| 29 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.py) |
+| 29 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.cpp), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.c), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.java) |
 | 30 | [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | :x: Not Completed | Easy | |
 | 31 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/mime.py) |
 | 32 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
