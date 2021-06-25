@@ -9,14 +9,15 @@ def log(x):
 planet = []
 n = int(input())
 for i in range(n):
-    name, r, m, c = input().split()
-    dP = float(m) / (4/3 * math.pi * pow(float(r), 3))
+    name, *rmc = input().split()
+    r, m, c = (float(s) for s in rmc)
+    dP = m / (4/3 * math.pi * pow(r, 3))
     if name == 'Alice':
-        rA = float(r)
+        rA = r
         dA = dP
         # log([name, r, m, c, dP])
     else:
-        planet.append([name, float(r), float(m), float(c), dP])
+        planet.append([name, r, m, c, dP])
 # log(planet)
 
 mini = sys.maxsize
