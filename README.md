@@ -18,7 +18,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles | :heavy_check_mark: Completed | :x: Not Completed |
 
-### Easy (22/117 completed)
+### Easy (23/117 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -74,7 +74,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 50 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.c), [C#](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.cs) |
 | 51 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
 | 52 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/decsent.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.c) |
-| 53 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :x: Not Completed | Easy | |
+| 53 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/river.py)|
 | 54 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :x: Not Completed | Easy | |
 | 55 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
 | 56 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |  |
