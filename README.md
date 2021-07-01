@@ -16,7 +16,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | [Legends of Code & Magic](https://www.codingame.com/multiplayer/bot-programming/legends-of-code-magic) | Bronze | [Python](https://github.com/orionewton/CodinGame/blob/main/Bots/legends.py) |
 | [Ghost in the Cell](https://www.codingame.com/multiplayer/bot-programming/ghost-in-the-cell) | Bronze | [Python](https://github.com/orionewton/CodinGame/blob/main/Bots/ghost.py) |
 
-## Puzzles | :heavy_check_mark: Completed | | :x: Not Completed |
+## Puzzles | :heavy_check_mark: Completed | :x: Not Completed |
 
 ### Easy (20/117 completed)
 
