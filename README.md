@@ -18,7 +18,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles | :heavy_check_mark: Completed | :x: Not Completed |
 
-### Easy (23/117 completed)
+### Easy (24/117 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -40,7 +40,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 16 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/defib.py)|
 | 17 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/pika.py) |
 | 18 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy | |
-| 19 | [Disordered First Contact](https://www.codingame.com/training/easy/disordered-first-contact) | :x: Not Completed | Easy | |
+| 19 | [Disordered First Contact](https://www.codingame.com/training/easy/disordered-first-contact) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/first_contact.py) |
 | 20 | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/enigma.py) |
 | 21 | [Expand the polynomial](https://www.codingame.com/training/easy/expand-the-polynomial) | :x: Not Completed | Easy | |
 | 22 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/ghost_leg.py) |
