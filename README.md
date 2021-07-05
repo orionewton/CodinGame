@@ -82,13 +82,13 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 58 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
 
-### Medium (8/209 completed)
+### Medium (9/209 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
 | 1 | [1010(1)](https://www.codingame.com/training/medium/10101) | :x: Not Completed | Medium | |
 | 2 | [2.5D maze](https://www.codingame.com/training/medium/2-5d-maze) | :x: Not Completed | Medium | |
-| 3 | [2048 scores](https://www.codingame.com/training/medium/2048-scores) | :x: Not Completed | Medium | |
+| 3 | [2048 scores](https://www.codingame.com/training/medium/2048-scores) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/2048.py) |
 | 4 | [2x2x2 Rubik's cube movements](https://www.codingame.com/training/medium/222-rubiks-cube-movements) | :x: Not Completed | Medium | |
 | 5 | [Advanced Tree](https://www.codingame.com/training/medium/advanced-tree) | :x: Not Completed | Medium | |
 | 6 | [Ancestors & Descendants](https://www.codingame.com/training/medium/ancestors-&-descendants) | :x: Not Completed | Medium | |
