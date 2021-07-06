@@ -18,7 +18,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles | :heavy_check_mark: Completed | :x: Not Completed |
 
-### Easy (25/117 completed)
+### Easy (26/117 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -78,8 +78,9 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 54 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/river.py)|
 | 55 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :x: Not Completed | Easy | |
 | 56 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
-| 57 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |  |
-| 58 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
+| 57 | [TicTacToe](https://www.codingame.com/training/easy/tictactoe) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/tictactoe.py)
+| 58 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |  |
+| 59 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
 
 ### Medium (10/209 completed)
