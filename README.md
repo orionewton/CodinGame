@@ -18,7 +18,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles | :heavy_check_mark: Completed | :x: Not Completed |
 
-### Easy (26/117 completed)
+### Easy (27/117 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -50,7 +50,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 26 | [Guessing n Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | :x: Not Completed | Easy | |
 | 27 | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.py), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.java), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.cpp), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.c) |
 | 28 | [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :x: Not Completed | Easy | |
-| 29 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | :x: Not Completed | Easy | |
+| 29 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/time.py) |
 | 30 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :x: Not Completed | Easy | |
 | 31 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
 | 32 | [Lumen](https://www.codingame.com/training/easy/lumen) | :x: Not Completed | Easy | |
