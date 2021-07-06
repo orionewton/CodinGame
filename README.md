@@ -82,7 +82,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 58 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
 
-### Medium (9/209 completed)
+### Medium (10/209 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -141,7 +141,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 53 | [Magic stones](https://www.codingame.com/training/medium/magic-stones) | :x: Not Completed | Medium | |
 | 54 | [Mars Lander - Episode 2](https://www.codingame.com/training/medium/mars-lander-episode-2) | :x: Not Completed | Medium | |
 | 55 | [Maximum sub-sequence](https://www.codingame.com/training/medium/maximum-sub-sequence) | :x: Not Completed | Medium | |
-| 56 | [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation) | :x: Not Completed | Medium | |
+| 56 | [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/maya.py) |
 | 57 | [Maze](https://www.codingame.com/training/medium/maze) | :x: Not Completed | Medium | |
 | 58 | [Micro Assembly](https://www.codingame.com/training/medium/micro-assembly) | :x: Not Completed | Medium | |
 | 59 | [Minimal number of swaps](https://www.codingame.com/training/medium/minimal-number-of-swaps) | :x: Not Completed | Medium | |
