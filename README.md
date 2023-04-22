@@ -7,6 +7,7 @@
 ## Introduction
 
 In this reposority you will find my working solutions for puzzles and bots for contests on the platform https://www.codingame.com/.
+
 Solutions made with ChatGPT are in this ***format***
 
 ## Bots
