@@ -18,7 +18,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles | :heavy_check_mark: Completed | :x: Not Completed |
 
-### Easy (30/117 completed)
+### Easy (31/118 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -65,24 +65,25 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 41 | [Personal Best](https://www.codingame.com/training/easy/personal-best) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/gym.py)
 | 42 | [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :x: Not Completed | Easy |  |
 | 43 | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.c), [C#](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.cs) |
-| 44 | [Rectangle Partition](https://www.codingame.com/training/easy/rectangle-partition) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/rectangle.py)
-| 45 | [Rectangular block spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) | :x: Not Completed | Easy |  |
-| 46 | [Rock Paper Scissors Lizard Spock](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/rpcls.py)
-| 47 | [Robot Show](https://www.codingame.com/training/easy/robot-show) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.c) |
-| 48 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | :x: Not Completed | Easy |  |
-| 49 | [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :x: Not Completed | Easy |  |
-| 50 | [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
-| 51 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
-| 52 | [Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/sudoku.py)
-| 53 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.c), [C#](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.cs) |
-| 54 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
-| 55 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/decsent.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.c) |
-| 56 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/river.py)|
-| 57 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/river2.py)|
-| 58 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
-| 59 | [TicTacToe](https://www.codingame.com/training/easy/tictactoe) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/tictactoe.py)
-| 60 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |  |
-| 61 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
+| 44 | [Prefix Code](https://www.codingame.com/training/easy/prefix-code) | :heavy_check_mark: Completed | Easy| [Python] (https://github.com/orionewton/CodinGame/blob/main/Easy/prefix.py)
+| 45 | [Rectangle Partition](https://www.codingame.com/training/easy/rectangle-partition) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/rectangle.py)
+| 46 | [Rectangular block spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) | :x: Not Completed | Easy |  |
+| 47 | [Rock Paper Scissors Lizard Spock](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/rpcls.py)
+| 48 | [Robot Show](https://www.codingame.com/training/easy/robot-show) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.c) |
+| 49 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | :x: Not Completed | Easy |  |
+| 50 | [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :x: Not Completed | Easy |  |
+| 51 | [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
+| 52 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
+| 53 | [Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/sudoku.py)
+| 54 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.c), [C#](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.cs) |
+| 55 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
+| 56 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/decsent.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.c) |
+| 57 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/river.py)|
+| 58 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/river2.py)|
+| 59 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
+| 60 | [TicTacToe](https://www.codingame.com/training/easy/tictactoe) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/tictactoe.py)
+| 61 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |  |
+| 62 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
 
 ### Medium (10/209 completed)
